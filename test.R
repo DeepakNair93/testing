@@ -1,2 +1,2 @@
-print("This is my first git file")
+print("Thisfile was created in R Studio")
 print("This git is live now")
